@@ -1,0 +1,7 @@
+
+NAME = Grass
+FILE_PASS=data\model\block_grass_000.x
+
+NAME = Stone
+FILE_PASS=data\model\block_stone_000.x
+

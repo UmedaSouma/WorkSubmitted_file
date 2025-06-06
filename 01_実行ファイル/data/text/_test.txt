@@ -1,0 +1,46 @@
+SCRIPT
+
+pos = 0 , -20 , 0
+type = grass
+
+pos = 40 , -20 , 0
+type = grass
+
+pos = 80 , -20 , 0
+type = grass
+
+pos = 120 , -20 , 0
+type = stone
+
+pos = 60 , -40 , 0
+type = grass
+
+pos = 20 , 0 , 0
+type = grass
+
+pos = 0 , 0 , 20
+type = grass
+
+pos = 40 , 0 , 20
+type = grass
+
+pos = 60 , -20 , 20
+type = grass
+
+pos = 140 , 20 , 0
+type = grass
+
+pos = 140 , -40 , 0
+type = grass
+
+pos = 40 , 0 , -60
+type = grass
+
+pos = -20 , 0 , 0
+type = grass
+
+pos = 141 , -40 , 0
+type = grass
+
+END_SCRIPT
+
